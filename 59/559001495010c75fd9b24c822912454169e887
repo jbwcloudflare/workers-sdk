@@ -1,0 +1,21 @@
+packages/workers-shared/asset-worker/src/handler.ts
+  s_6c220eb8280488::t_e6ba0b9299769c 1054,1114,1116-1118,1121,1123-1124,1126-1127
+packages/workers-shared/router-worker/src/worker.ts
+  s_6c220eb8280488::t_f88bf626ce6745 284-303,355-356,359-362,364-371,373-380
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "59559001495010c75fd9b24c822912454169e887",
+  "prompts": {},
+  "sessions": {
+    "s_6c220eb8280488": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_05bc4cf86ffeHetxfrWHlzf4VV",
+        "model": "gpt-5.6-terra"
+      },
+      "human_author": "Josh Wheeler <jwheeler@cloudflare.com>"
+    }
+  }
+}
