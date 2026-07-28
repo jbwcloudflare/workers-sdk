@@ -1,0 +1,21 @@
+packages/workers-shared/asset-worker/src/handler.ts
+  s_6c220eb8280488::t_18402756711e90 19,1146
+packages/workers-shared/asset-worker/tests/handler.test.ts
+  s_6c220eb8280488::t_455a8da37c0cc4 52,56,62,72
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "4576f629f137968c1a1520fc181dea9eff57f9d5",
+  "prompts": {},
+  "sessions": {
+    "s_6c220eb8280488": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_05bc4cf86ffeHetxfrWHlzf4VV",
+        "model": "gpt-5.6-terra"
+      },
+      "human_author": "Josh Wheeler <jwheeler@cloudflare.com>"
+    }
+  }
+}
